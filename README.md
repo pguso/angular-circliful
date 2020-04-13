@@ -59,10 +59,6 @@ Available Options
 | backgroundCircle      | / | string
 | percent      | / | string 
 | text      | / | string
-<<<<<<< HEAD
-| icon      | / | string 
-=======
->>>>>>> minor fix
 | svgContainer      | / | string
 | point      | / | string
 
