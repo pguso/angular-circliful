@@ -1,6 +1,10 @@
 {
   "name": "angular-circliful",
+<<<<<<< HEAD
   "version": "0.0.2-beta",
+=======
+  "version": "0.0.3-beta",
+>>>>>>> minor fix
   "description": "circle statistic for angular",
   "keywords": [
     "circliful",
