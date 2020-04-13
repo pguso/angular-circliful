@@ -25,8 +25,8 @@ export class AppModule {}
 ```typescript
 export class YourComponent {
 percent = 60;
-strokeWidth: 15;
-color: 'blue';
+strokeWidth = 15;
+color = 'blue';
 }
 ```
 
