@@ -1,0 +1,39 @@
+{
+  "name": "angular-circliful",
+  "version": "0.0.2-beta",
+  "description": "circle statistic for angular",
+  "keywords": [
+    "circliful",
+    "angular",
+    "circle",
+    "statistic",
+    "stats",
+    "presentation",
+    "svg"
+  ],
+  "author": {
+    "name": "Patric Gutersohn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pguso/angular-circliful"
+  },
+  "bugs": {
+    "url": "https://github.com/pguso/angular-circliful/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.1.0",
+    "@angular/core": "^9.1.0",
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/angular-circliful.umd.js",
+  "module": "fesm5/angular-circliful.js",
+  "es2015": "fesm2015/angular-circliful.js",
+  "esm5": "esm5/angular-circliful.js",
+  "esm2015": "esm2015/angular-circliful.js",
+  "fesm5": "fesm5/angular-circliful.js",
+  "fesm2015": "fesm2015/angular-circliful.js",
+  "typings": "angular-circliful.d.ts",
+  "metadata": "angular-circliful.metadata.json",
+  "sideEffects": false
+}

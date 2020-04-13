@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of angular-circliful
+ */
+export * from './lib/angular-circliful.component';
+export * from './lib/angular-circliful.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2FuZ3VsYXItY2lyY2xpZnVsLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsbUNBQW1DLENBQUM7QUFDbEQsY0FBYyxnQ0FBZ0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYW5ndWxhci1jaXJjbGlmdWxcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9hbmd1bGFyLWNpcmNsaWZ1bC5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvYW5ndWxhci1jaXJjbGlmdWwubW9kdWxlJztcbiJdfQ==
