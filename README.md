@@ -24,9 +24,11 @@ export class AppModule {}
 #### Integrate the component somewhere in your Application</h3>
 ```typescript
 export class YourComponent {
-percent = { value: 60 };
-strokeWidth: 15;
-color: 'blue';
+percent = {
+    value: 60
+};
+strokeWidth = 15;
+color = 'blue';
 }
 ```
 
